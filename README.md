@@ -18,7 +18,7 @@
 [![Issues Closed](https://img.shields.io/github/issues-closed/CRiMiNaL786/DESTROYX?&style=flat-square)]( https://github.com/CRiMiNaL786/DESTROYX/issues?q=is:closed)
 [![PR Open](https://img.shields.io/github/issues-pr/CRiMiNaL786/DESTROYX?&style=flat-square)]( https://github.com/CRiMiNaL786/DESTROYX/pulls)
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/CRiMiNaL786/DESTROYX?&style=flat-square)]( https://github.com/CRiMiNaL786/DESTROYX/pulls?q=is:closed)
-![Repo Size](https://img.shields.io/github/repo-size/CRiMiNaL786/DESTROYX?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/SHIVIIOPEVILBABYLOVE/DESTROYX?style=flat-square)
 
 <br>
 
