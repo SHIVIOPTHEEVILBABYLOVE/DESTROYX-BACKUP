@@ -18,7 +18,7 @@
 [![Issues Closed](https://img.shields.io/github/issues-closed/CRiMiNaL786/DESTROYX?&style=flat-square)]( https://github.com/CRiMiNaL786/DESTROYX/issues?q=is:closed)
 [![PR Open](https://img.shields.io/github/issues-pr/CRiMiNaL786/DESTROYX?&style=flat-square)]( https://github.com/CRiMiNaL786/DESTROYX/pulls)
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/CRiMiNaL786/DESTROYX?&style=flat-square)]( https://github.com/CRiMiNaL786/DESTROYX/pulls?q=is:closed)
-![Repo Size](https://img.shields.io/github/repo-size/SHIVIIOPEVILBABYLOVE/DESTROYX?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/CRiMiNaL786/DESTROYX?style=flat-square)
 
 <br>
 
@@ -41,7 +41,7 @@
 
 # Click On This To Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CRiMiNaL786/DESTROYX-BACKUP)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHIVIIOPEVILBABYLOVE/DESTROYX-BACKUP)
 
 # Requirements 
 * Python 3.8 or Higher
